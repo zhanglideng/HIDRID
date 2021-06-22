@@ -1,4 +1,4 @@
-# HIDRID
+# HIDRID：Haze image dataset synthesis method for real image dehazing
 # 面向真实图像去雾的雾霾图像数据集合成方法
 
 ## 1 环境
