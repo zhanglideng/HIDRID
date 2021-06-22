@@ -42,9 +42,9 @@ https://pan.baidu.com/s/1997wfUk4DO9qXhEohY-WHg  提取码：nis9
 
 ## 3.2 数据集说明
 
-/FiveK-Haze\n
-    ----/gt （目标图像\基准图像\Ground Truth）\n
-    ----/t （透射图\传输图\Transmission Map）\n
-    ----/test_haze（测试集雾霾图像）\n
-    ----/train_haze（训练集雾霾图像）\n
-    ----/val_haze（验证集雾霾图像）\n
+/FiveK-Haze  
+    ----/gt （目标图像\基准图像\Ground Truth）  
+    ----/t （透射图\传输图\Transmission Map）  
+    ----/test_haze（测试集雾霾图像）  
+    ----/train_haze（训练集雾霾图像）  
+    ----/val_haze（验证集雾霾图像）  
